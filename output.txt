@@ -1,0 +1,105 @@
+current player: 4468979408, symbol: X
+_|_|_
+_|_|_
+_|_|_
+
+Logs:
+_|_|_
+_|_|_
+_|_|_ None {}
+
+Possible actions: [ Place ]
+enter x and y coordinates: --------------------------------------------------------------------------------
+current player: 4468982304, symbol: O
+X|_|_
+_|_|_
+_|_|_
+
+Logs:
+_|_|_
+_|_|_
+_|_|_ None {}
+
+X|_|_
+_|_|_
+_|_|_ Place {'palyer': <__main__.Player object at 0x10a5f36d0>}
+
+Possible actions: [ Place ]
+enter x and y coordinates: --------------------------------------------------------------------------------
+current player: 4468979408, symbol: X
+X|O|_
+_|_|_
+_|_|_
+
+Logs:
+_|_|_
+_|_|_
+_|_|_ None {}
+
+X|_|_
+_|_|_
+_|_|_ Place {'palyer': <__main__.Player object at 0x10a5f36d0>}
+
+X|O|_
+_|_|_
+_|_|_ Place {'palyer': <__main__.Player object at 0x10a5f4220>}
+
+Possible actions: [ Place ]
+enter x and y coordinates: --------------------------------------------------------------------------------
+current player: 4468982304, symbol: O
+X|O|_
+_|X|_
+_|_|_
+
+Logs:
+_|_|_
+_|_|_
+_|_|_ None {}
+
+X|_|_
+_|_|_
+_|_|_ Place {'palyer': <__main__.Player object at 0x10a5f36d0>}
+
+X|O|_
+_|_|_
+_|_|_ Place {'palyer': <__main__.Player object at 0x10a5f4220>}
+
+X|O|_
+_|X|_
+_|_|_ Place {'palyer': <__main__.Player object at 0x10a5f36d0>}
+
+Possible actions: [ Place ]
+enter x and y coordinates: --------------------------------------------------------------------------------
+current player: 4468979408, symbol: X
+X|O|O
+_|X|_
+_|_|_
+
+Logs:
+_|_|_
+_|_|_
+_|_|_ None {}
+
+X|_|_
+_|_|_
+_|_|_ Place {'palyer': <__main__.Player object at 0x10a5f36d0>}
+
+X|O|_
+_|_|_
+_|_|_ Place {'palyer': <__main__.Player object at 0x10a5f4220>}
+
+X|O|_
+_|X|_
+_|_|_ Place {'palyer': <__main__.Player object at 0x10a5f36d0>}
+
+X|O|O
+_|X|_
+_|_|_ Place {'palyer': <__main__.Player object at 0x10a5f4220>}
+
+Possible actions: [ Place ]
+enter x and y coordinates: --------------------------------------------------------------------------------
+X|O|O
+_|X|_
+_|_|X
+<__main__.Player object at 0x10a5f36d0> won
+Game Over

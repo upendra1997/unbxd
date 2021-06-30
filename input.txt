@@ -1,0 +1,12 @@
+Place
+0 0
+Place
+0 1
+Place
+1 1
+Place
+0 2
+Place
+2 2
+Place
+1 0
